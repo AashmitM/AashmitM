@@ -12,10 +12,7 @@
 
 ## About Me
 
-- 🎓 Second-year Computer Science student at **Thapar Institute of Engineering and Technology (TIET)**, Class of 2029
-- 📈 First-year GPA: **9.91**
-- 🧩 Member of my university's coding society
-- 🏎️ Formula 1 fan — it's the thread running through most of my side projects
+- Computer Science student
 - 🛠️ Currently building full-stack products end to end: backend architecture, frontend design, and deployment
 
 <br/>
